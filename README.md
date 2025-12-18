@@ -11,7 +11,7 @@ run `Main.java`.
 *From the terminal :*
 ```bash
 # from project root, after compiling classes into src
-java -cp src com.TerminalKiosk
+java -cp src com.AppUI
 ```
 
 
@@ -33,5 +33,6 @@ java -cp src com.TerminalKiosk
 
 - Java console application
 - Uses Observer, Strategy, Factory, and Singleton patterns across the kiosk, menu, pricing, and product subsystems.
+
 
 
