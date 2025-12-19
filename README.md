@@ -1,4 +1,4 @@
-# Campus Kiosk Console
+# APU CAMPUS KIOSK SYSTEM
 
 Simple terminal-based application for the APU campus drinks and snacks kiosk.
 Students and lecturers can register, log in, browse the menu, create and customize orders; admins can manage products, users, and view system stats.
@@ -33,6 +33,7 @@ java -cp src com.AppUI
 
 - Java console application
 - Uses Observer, Strategy, Factory, and Singleton patterns across the kiosk, menu, pricing, and product subsystems.
+
 
 
 
